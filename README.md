@@ -6,11 +6,15 @@ desenvolvimento de software, e seu uso pode levar a código mais modular, reutil
 Exemplos de padrões de projetos
 O repositório contém exemplos de vários padrões de projetos, como:
 
-Singleton
-Factory Method
-Observer
-Strategy
-Command
+
+<ul>
+	<li>Singleton</li>
+	<li>Factory Method</li>
+	<li>Observer</li>
+	<li>Strategy</li>
+	<li>Command</li>
+	<li>E muitos outros.</li>
+</ul>
 
 O repositório Padrões de Projetos em Java é uma excelente referência para desenvolvedores Java que desejam aprender 
 e aplicar padrões de projetos em suas próprias aplicações, fornecendo exemplos práticos e bem documentados 
